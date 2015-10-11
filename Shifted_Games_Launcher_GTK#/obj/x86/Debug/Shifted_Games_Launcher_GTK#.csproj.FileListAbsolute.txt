@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\bin\Debug\Shifted_Games_Launcher_GTK#.exe
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\bin\Debug\Shifted_Games_Launcher_GTK#.pdb
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\obj\x86\Debug\Shifted_Games_Launcher_GTK#.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\obj\x86\Debug\Shifted_Games_Launcher_GTK#.exe
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\obj\x86\Debug\Shifted_Games_Launcher_GTK#.pdb
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Documents\Projects\Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,17 @@
+﻿The launcher has a set of error codes that refer to various errors within the code that are caused by accident. These errors are not on the launcher code's end, but could be the fault of a game developer.
+
+Here is a reference sheet containing all error codes and their meaning:
+
+SFT10xx: Error with JSON metadata file in root of game
+==========================================================
+
+SFT1001: MainExecutable doesn't point to a valid file
+SFT1002: Game doesn't have a Name in the metadata file
+
+SFT11xx: Server-side errors
+==============================
+
+SFT1101: Connection to game download server timed out
+SFT1102: Couldn't download game files, HTTP 404 error
+SFT1103: No internet connection
+SFT1104: Game isn't for your platform

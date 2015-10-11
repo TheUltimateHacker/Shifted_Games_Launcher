@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Shifted_Games_Launcher_GTK#\Shifted_Games_Launcher_GTK#.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shifted_Games_Launcher_GTK#\MainWindow.cs">
+    <Files>
+      <File FileName="Shifted_Games_Launcher_GTK#\MainWindow.cs" Line="91" Column="14" />
+      <File FileName="Shifted_Games_Launcher_GTK#\About.cs" Line="1" Column="1" />
+      <File FileName="Shifted_Games_Launcher_GTK#\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Shifted_Games_Launcher_GTK#\Program.cs" Line="1" Column="1" />
+      <File FileName="Shifted_Games_Launcher_GTK#\Enums\ELauncherMode.cs" Line="1" Column="1" />
+      <File FileName="Shifted_Games_Launcher_GTK#\Properties\GameInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
